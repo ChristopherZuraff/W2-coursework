@@ -1,0 +1,76 @@
+body {
+    margin:0; /*gets rid of white space around body*/
+    margin-top:16px;
+    height:150vh; /*you can let your content define it's height*/
+    position:relative; /*REQUIRED Sets up positioning for your footer*/
+    text-align: center;
+    background-image: url("https://orig00.deviantart.net/6809/f/2010/073/f/d/shenzhen_skyline_by_darthvader05.jpg");
+  }
+  
+  #sticky {
+    width:100%;
+    height:100px;
+    padding-top:20px;
+    background:black;
+    color:white;
+    font-weight:bold;
+    font-size:24px;
+    text-align:center;
+    position:absolute; /*Here's what sticks it*/
+    bottom:0;          /*to the bottom of the body/page*/
+    left:0;            /*and to the left of the body/page.*/
+  }
+
+  #jumbotron {
+      background: rgba(122, 164, 255, 0.288);}
+
+      #carousel-item1 {
+width: 50%;
+height: 300px;
+background-color: white;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
+
+      }
+
+      #carousel-item2 {
+        width: 50%;
+        height: 300px;
+        background-color: lightgray;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+        
+              }
+              #carousel-item3 {
+                width: 50%;
+                height: 300px;
+                background-color: lightgrey;
+                margin-left: auto;
+                margin-right: auto;
+                width: 40%;
+                
+                      }
+                      #carousel-item4 {
+                        width: 50%;
+                        height: 300px;
+                        background-color: lightgray;
+                        margin-left: auto;
+                        margin-right: auto;
+                        width: 40%;
+                        
+                              }
+                                                
+
+      #envelope{
+        background: white;
+      }
+
+      #skillsTable{
+        margin-left: auto;
+margin-right: auto;
+width: 40%;
+      }
+
+      #cara
